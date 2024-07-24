@@ -1,0 +1,14 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\bin\Debug\net8.0\XmlExempleProject.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\bin\Debug\net8.0\XmlExempleProject.deps.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\bin\Debug\net8.0\XmlExempleProject.runtimeconfig.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\bin\Debug\net8.0\XmlExempleProject.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\bin\Debug\net8.0\XmlExempleProject.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.AssemblyInfoInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.AssemblyInfo.cs
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\refint\XmlExempleProject.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\XmlExempleProject.genruntimeconfig.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XmlSimpleProject\obj\Debug\net8.0\ref\XmlExempleProject.dll

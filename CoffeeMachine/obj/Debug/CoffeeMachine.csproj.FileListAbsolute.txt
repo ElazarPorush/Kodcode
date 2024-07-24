@@ -1,0 +1,10 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

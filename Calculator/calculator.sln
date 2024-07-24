@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator.csproj", "{898F213D-F1EA-40FC-BE2D-72E0B092E109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning", "..\Learning\Learning.csproj", "{202B4A38-C245-43E7-8532-C3D8963F399D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employes", "..\Employs\Employes.csproj", "{94CE37CD-C6B3-450F-89DF-CE49F4A2AC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898F213D-F1EA-40FC-BE2D-72E0B092E109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898F213D-F1EA-40FC-BE2D-72E0B092E109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898F213D-F1EA-40FC-BE2D-72E0B092E109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898F213D-F1EA-40FC-BE2D-72E0B092E109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202B4A38-C245-43E7-8532-C3D8963F399D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202B4A38-C245-43E7-8532-C3D8963F399D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202B4A38-C245-43E7-8532-C3D8963F399D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202B4A38-C245-43E7-8532-C3D8963F399D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CE37CD-C6B3-450F-89DF-CE49F4A2AC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CE37CD-C6B3-450F-89DF-CE49F4A2AC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CE37CD-C6B3-450F-89DF-CE49F4A2AC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CE37CD-C6B3-450F-89DF-CE49F4A2AC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31EC80A6-A3DD-4076-A715-DA08F2658EC9}
+	EndGlobalSection
+EndGlobal

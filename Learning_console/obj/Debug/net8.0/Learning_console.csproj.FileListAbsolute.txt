@@ -1,0 +1,14 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\bin\Debug\net8.0\Learning_console.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\bin\Debug\net8.0\Learning_console.deps.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\bin\Debug\net8.0\Learning_console.runtimeconfig.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\bin\Debug\net8.0\Learning_console.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\bin\Debug\net8.0\Learning_console.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.AssemblyInfoInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.AssemblyInfo.cs
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\refint\Learning_console.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\Learning_console.genruntimeconfig.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning_console\obj\Debug\net8.0\ref\Learning_console.dll

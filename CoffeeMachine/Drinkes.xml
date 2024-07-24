@@ -1,0 +1,26 @@
+<Drinkes>
+  <Drink>
+    <name>שוקו</name>
+    <shuger>0.5</shuger>
+    <coffee>0.5</coffee>
+    <milk>0.5</milk>
+    <cackahu>0.5</cackahu>
+    <price>4</price>
+  </Drink>
+  <Drink>
+    <name>תה שחור</name>
+    <shuger>0.5</shuger>
+    <coffee>0.5</coffee>
+    <milk>0.5</milk>
+    <cackahu>0.5</cackahu>
+    <price>6</price>
+  </Drink>
+  <Drink>
+    <name>תה ירוק</name>
+    <shuger>1.5</shuger>
+    <coffee>3</coffee>
+    <milk>3.5</milk>
+    <cackahu>4</cackahu>
+    <price>7.5</price>
+  </Drink>
+</Drinkes>

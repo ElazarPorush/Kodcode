@@ -1,0 +1,11 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\bin\Debug\TheHost.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\bin\Debug\TheHost.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\bin\Debug\TheHost.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\TheHost.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\TheHost.Form2.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\TheHost.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\Host.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\TheHost.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\HostAndGuests\TheHost\obj\Debug\TheHost.pdb

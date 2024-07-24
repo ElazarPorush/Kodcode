@@ -1,0 +1,10 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\bin\Debug\Public_Domain.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\bin\Debug\Public_Domain.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\bin\Debug\Public_Domain.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Public_Domain\obj\Debug\Public_Domain.pdb

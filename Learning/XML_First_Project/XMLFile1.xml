@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+	<Employee id="1" name="Shalom" age ="22.75">
+		<Address street="Kadish Luz" number="15" city="Haifa"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked="20"/>
+			<Month number="2" daysWorked="18"/>
+			<Month number="3" daysWorked="22"/>
+		</MonthsWorked>
+	</Employee>
+	<Employee id="2" name="Elazar" age ="21.5">
+		<Address street="Sulam Yahkov" number="9" city="Jerusalem"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked="13"/>
+			<Month number="2" daysWorked="84"/>
+			<Month number="3" daysWorked="22"/>
+		</MonthsWorked>
+	</Employee>
+	<Employee id="3" name="Ari" age="26">
+		<Address street="Hanarkis" number="15" city="Haifa"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked="20"/>
+			<Month number="2" daysWorked="18"/>
+			<Month number="3" daysWorked="22"/>
+		</MonthsWorked>
+	</Employee>
+</Employees>

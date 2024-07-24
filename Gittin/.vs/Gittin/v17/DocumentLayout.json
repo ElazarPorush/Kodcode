@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\mainproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|solutionrelative:mainproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\gittin\\gitinmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|solutionrelative:gitinmaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\gitin.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|solutionrelative:gitin.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F008CC2-E15F-4058-9634-DD697029681E}|Gittin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:56.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainProject.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\MainProject.cs",
+              "RelativeDocumentMoniker": "MainProject.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\MainProject.cs",
+              "RelativeToolTip": "MainProject.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:09:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitinManeger.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\GitinManeger.cs",
+              "RelativeDocumentMoniker": "GitinManeger.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\GitinManeger.cs",
+              "RelativeToolTip": "GitinManeger.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAqwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:06:03.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gitin.xml",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Gitin.xml",
+              "RelativeDocumentMoniker": "Gitin.xml",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Gitin.xml",
+              "RelativeToolTip": "Gitin.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-24T07:04:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Gittin\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:53.01Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

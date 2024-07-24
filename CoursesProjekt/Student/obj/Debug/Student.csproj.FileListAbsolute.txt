@@ -1,0 +1,11 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\bin\Debug\Student.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\bin\Debug\Student.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\bin\Debug\Student.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Student\obj\Debug\Student.Form2.resources

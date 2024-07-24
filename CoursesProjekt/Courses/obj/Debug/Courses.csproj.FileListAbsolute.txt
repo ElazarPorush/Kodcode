@@ -1,0 +1,13 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\bin\Debug\Courses.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\bin\Debug\Courses.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\bin\Debug\Courses.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.Form2.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.Form3.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.Form4.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\CoursesProjekt\Courses\obj\Debug\Courses.pdb

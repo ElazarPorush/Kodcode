@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Learning_console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\employeemaneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\frmlearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DEE249-0C5B-4321-82C3-F38D93FE038D}|..\\Exercise\\Exercise.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\exercise\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0606D59F-0C58-4E33-A8E0-3C3713BA4284}|..\\Time_clock\\TimeClock\\TimeClock.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\time_clock\\timeclock\\frmlearning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:14:39.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\Form1.cs",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:14:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLearning.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\frmLearning.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\frmLearning.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\frmLearning.cs [Design]",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\frmLearning.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:38:39.83Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 998,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManeger.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\EmployeeManeger.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\EmployeeManeger.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\EmployeeManeger.cs",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\EmployeeManeger.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA6wBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:59:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Exercise\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Exercise\\Employee.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Exercise\\Employee.cs",
+              "RelativeToolTip": "..\\Exercise\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:55:52.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConection.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\DBConection.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\DBConection.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\DBConection.cs",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\DBConection.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAmwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:24:17.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLearning.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\frmLearning.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\TimeClock\\frmLearning.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\Time_clock\\TimeClock\\frmLearning.cs",
+              "RelativeToolTip": "..\\Time_clock\\TimeClock\\frmLearning.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:33:33.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

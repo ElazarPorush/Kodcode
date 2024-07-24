@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\studentmanejer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:studentmanejer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|c:\\users\\lzrpr\\onedrive\\desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\coursesprojekt\\student\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90D0F3-A1B9-4F7D-ACF0-3487BA6BE78F}|Student.csproj|solutionrelative:dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 506,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:34:17.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:53:59.176Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 473,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConection.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\DBConection.cs",
+              "RelativeDocumentMoniker": "DBConection.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\DBConection.cs",
+              "RelativeToolTip": "DBConection.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:22:11.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManejer.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\StudentManejer.cs",
+              "RelativeDocumentMoniker": "StudentManejer.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\StudentManejer.cs",
+              "RelativeToolTip": "StudentManejer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:22:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAASwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:30:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\lzrpr\\OneDrive\\Desktop\\\u05E7\u05D1\u05E6\u05D9\u05DD\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05D1\u05EA\u05DB\u05E0\u05D5\u05EA\\_galil\\CoursesProjekt\\Student\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAawCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:01:25.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

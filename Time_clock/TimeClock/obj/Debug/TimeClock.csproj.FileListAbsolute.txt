@@ -1,0 +1,12 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.csproj.AssemblyReference.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.Form1.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.Properties.Resources.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.csproj.GenerateResource.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\bin\Debug\TimeClock.exe.config
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\bin\Debug\TimeClock.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\bin\Debug\TimeClock.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.Change_password.resources
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Time_clock\TimeClock\obj\Debug\TimeClock.frmLearning.resources

@@ -1,0 +1,14 @@
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\bin\Debug\net8.0\XML_First_Project.exe
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\bin\Debug\net8.0\XML_First_Project.deps.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\bin\Debug\net8.0\XML_First_Project.runtimeconfig.json
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\bin\Debug\net8.0\XML_First_Project.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\bin\Debug\net8.0\XML_First_Project.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.AssemblyInfoInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.AssemblyInfo.cs
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.csproj.CoreCompileInputs.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\refint\XML_First_Project.dll
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.pdb
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\XML_First_Project.genruntimeconfig.cache
+C:\Users\lzrpr\OneDrive\Desktop\קבצים\תיכנות\עבודות בתכנות\_galil\Learning\XML_First_Project\obj\Debug\net8.0\ref\XML_First_Project.dll
